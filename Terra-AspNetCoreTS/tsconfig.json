@@ -1,0 +1,11 @@
+
+{
+  "files": [ "src/main.ts", "src/terra.ts" ],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "moduleResolution": "Node",
+    "target": "es5"
+
+  }
+}
