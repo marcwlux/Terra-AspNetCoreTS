@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Terra-AspNetCoreTS.Controllers
+namespace TerraAspNetCoreTS.Controllers
 {
     public class BlogController : Controller
 {
